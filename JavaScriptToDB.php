@@ -1,4 +1,5 @@
 	// Java Script post in html5 page via Rest
+	// remember jquery libraries
 <script>	
 				var postFormStr = "<form method='POST' action='" + '/URL/DBwriter.php' + "'>\n";
 				postFormStr += "<input type='hidden' name='" + 'Correct' + "' value='" + correctanswer + "'></input>";
